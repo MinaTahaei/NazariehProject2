@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NazariehProject2_96522204", "NazariehProject2_96522204\NazariehProject2_96522204.csproj", "{2F510FB8-A40E-4895-AFDD-ABCEE2C41945}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NazariehProject2-Q1", "NazariehProject2-Q1\NazariehProject2-Q1.pyproj", "{0D584A3C-83A5-440D-8ECD-D791A77F23A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F510FB8-A40E-4895-AFDD-ABCEE2C41945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F510FB8-A40E-4895-AFDD-ABCEE2C41945}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F510FB8-A40E-4895-AFDD-ABCEE2C41945}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F510FB8-A40E-4895-AFDD-ABCEE2C41945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D584A3C-83A5-440D-8ECD-D791A77F23A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D584A3C-83A5-440D-8ECD-D791A77F23A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4CEFB16A-E4C5-449B-90ED-F544086A831F}
+		SolutionGuid = {558DD43F-67C5-4964-9AA2-65C0C3523B6E}
 	EndGlobalSection
 EndGlobal
